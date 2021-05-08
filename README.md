@@ -135,7 +135,7 @@ Fast learner and eager to explore new technologies. Able to switch between perfe
 <table>
    <tr>
       <td>
-         <a href="https://www.linkedin.com/in/angel-santiago-jaime-zavala-601813199/" title="LinkedIn">
+         <a href="https://www.linkedin.com/in/jaykumar-solanki/" title="LinkedIn">
              <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Jay Solanki's LinkedIn Profile" height="30" width="30">
          </a>
       </td>
