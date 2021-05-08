@@ -6,7 +6,7 @@
 Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, team work and Clean Code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.
 
 ## 👨‍💻 Languages and Tools
-### Familier 
+   ### Familier 
 <table style="border-style:hidden;">
     <tbody>
         <tr>
@@ -96,7 +96,7 @@ Fast learner and eager to explore new technologies. Able to switch between perfe
     </tbody>
 </table>
 
-### Learning 
+   ### Learning 
 <table>
     <tbody>
         <tr>
@@ -107,6 +107,10 @@ Fast learner and eager to explore new technologies. Able to switch between perfe
         </tr>
     </tbody>
 </table>
+
+## 📈 Profile Stats
+<img src="https://github-readme-stats.vercel.app/api?username=jaysolanki46&show_icons=true&theme=dark" alt="Jay Solanki :: Profile Stats" />
+
 
 <!---
 jaysolanki46/jaysolanki46 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
