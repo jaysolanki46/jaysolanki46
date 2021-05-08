@@ -131,10 +131,6 @@ Fast learner and eager to explore new technologies. Able to switch between perfe
 ## 📈 Profile Stats
 <img src="https://github-readme-stats.vercel.app/api?username=jaysolanki46&show_icons=true&theme=dark&include_all_commits=true" alt="Jay Solanki :: Profile Stats" />
 
-## :bar_chart: Visitor's Count
-<img src="https://profile-counter.glitch.me/{jaysolanki46}/count.svg" alt="Jay SOlanki :: Visitor's Count" />
-
-
 ## ⌨️ Reach Me
 <table>
    <tr>
@@ -156,6 +152,8 @@ Fast learner and eager to explore new technologies. Able to switch between perfe
    </tr>
 </table>   
 <!---
+## :bar_chart: Visitor's Count
+<img src="https://profile-counter.glitch.me/{jaysolanki46}/count.svg" alt="Jay SOlanki :: Visitor's Count" />
 jaysolanki46/jaysolanki46 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
