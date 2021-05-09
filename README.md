@@ -112,6 +112,10 @@ Fast learner and eager to explore new technologies. Able to switch between perfe
                         src="https://user-images.githubusercontent.com/25057099/117539452-d01e6780-b05e-11eb-9b33-1f8cd2ebd21b.png" />
                 </a>
          </td>
+         <td><a href="#"><img alt="Chart Js" title="Chart Js" height="40px" width="50px"
+                        src="https://user-images.githubusercontent.com/25057099/117569480-fb19c180-b119-11eb-8697-89ecf08e2ca9.png" />
+                </a>
+         </td>
       </tr>
     </tbody>
 </table>
