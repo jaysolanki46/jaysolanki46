@@ -70,6 +70,10 @@ Fast learner and eager to explore new technologies. Able to switch between perfe
                         src="https://user-images.githubusercontent.com/25057099/117538276-926b1000-b059-11eb-99ea-3ba2f94506c6.png" />
             </a>
         </td>
+        <td><a href="#"><img alt="Microsoft SQL Server" title="Microsoft SQL Server" height="40px" width="50px"
+                        src="https://user-images.githubusercontent.com/25057099/117570026-a0ce3000-b11c-11eb-98d1-261481407956.png" />
+            </a>
+        </td>
         <td><a href="#"><img alt="PostgreSQL" title="PostgreSQL" height="40px" width="50px"
                         src="https://user-images.githubusercontent.com/25057099/117538340-d1996100-b059-11eb-9527-3298e1e8ab92.png" />
             </a>
@@ -104,10 +108,10 @@ Fast learner and eager to explore new technologies. Able to switch between perfe
                         src="https://user-images.githubusercontent.com/25057099/117539409-9d746f00-b05e-11eb-88e6-048a9a2c1968.png" />
                 </a>
          </td>
-         <td><a href="#"><img alt="Visual Studio" title="Visual Studio" height="40px" width="50px"
-                        src="https://user-images.githubusercontent.com/25057099/117539430-b7ae4d00-b05e-11eb-992f-582bb8890d87.png" />
-                </a>
-         </td>
+         <td><a href="#"><img alt="Microsoft Visual Studio" title="Microsoft Visual Studio" height="40px" width="50px"
+                          src="https://user-images.githubusercontent.com/25057099/117539430-b7ae4d00-b05e-11eb-992f-582bb8890d87.png" />
+                  </a>
+          </td>
          <td><a href="#"><img alt="REST APIs" title="REST APIs" height="40px" width="50px"
                         src="https://user-images.githubusercontent.com/25057099/117539452-d01e6780-b05e-11eb-9b33-1f8cd2ebd21b.png" />
                 </a>
