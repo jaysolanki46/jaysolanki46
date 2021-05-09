@@ -128,6 +128,10 @@ Fast learner and eager to explore new technologies. Able to switch between perfe
                         src="https://user-images.githubusercontent.com/25057099/117537837-99911e80-b057-11eb-975b-3e50cc2e9510.png" />
                 </a>
             </td>
+            <td><a href="#"><img alt="Android Studio" title="Android Studio" height="40px" width="50px"
+                        src="https://user-images.githubusercontent.com/25057099/117569805-8d6e9500-b11b-11eb-8f30-ce9d82201a20.png"/>
+              </a>
+            </td>
         </tr>
     </tbody>
 </table>
