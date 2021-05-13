@@ -157,7 +157,7 @@ Fast learner and eager to explore new technologies. Able to switch between perfe
          </a>
       </td>
       <td>
-         <a href="http://www.solankiinfosolutions.com/" title="Portfolio">
+         <a href="http://jaysolanki.tech/" title="Portfolio">
           <img src="https://user-images.githubusercontent.com/25057099/117540215-2640da00-b062-11eb-86f3-1669bd194bad.png" alt="Jay Solanki's Portfolio" height="30" width="30">
       </a>  
       </td>
