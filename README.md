@@ -7,7 +7,7 @@ Fast learner and eager to explore new technologies. Able to switch between perfe
 
 ## 👨‍💻 Languages and Tools
    ### Familier 
-<table style="border-style:hidden; border-width: 0">
+<table style="border-style:hidden; border: 0;">
     <tbody>
         <tr>
             <td><a href="#"><img alt="Java" title="Java" height="40px" width="50px"
@@ -17,8 +17,8 @@ Fast learner and eager to explore new technologies. Able to switch between perfe
                         src="https://user-images.githubusercontent.com/25057099/117537914-f2f94d80-b057-11eb-88a1-8d176852d612.png" />
               </a>
             </td>
-            <td><a href="#"><img alt="React Native" title="React Native" height="40px" width="120px"
-                        src="https://user-images.githubusercontent.com/25057099/135941544-79fe2689-5ef6-4abf-acfc-35e4e48d0979.png" />
+            <td><a href="#"><img alt="React Native" title="React Native" height="40px" width="50px"
+                        src="https://user-images.githubusercontent.com/25057099/135941808-ce66a7a1-86f3-40aa-9aea-043c767d0d5e.png" />
               </a>
             </td>
       </tr>
