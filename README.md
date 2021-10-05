@@ -7,30 +7,18 @@ Fast learner and eager to explore new technologies. Able to switch between perfe
 
 ## 👨‍💻 Languages and Tools
    ### Familier 
-<table style="border-style:hidden;">
+<table style="border-style:hidden; border-width: 0">
     <tbody>
         <tr>
             <td><a href="#"><img alt="Java" title="Java" height="40px" width="50px"
                         src="https://user-images.githubusercontent.com/25057099/135941217-9d9e474c-b523-4f68-b2e0-57678bdae44e.png" />
             </td>
-           <td><a href="#"><img alt=".Net" title=".Net" height="40px" width="50px"
-                        src="https://user-images.githubusercontent.com/25057099/117537795-5b93fa80-b057-11eb-82fb-e2e4c8fa67b9.png" />
-              </a>
-            </td>
             <td><a href="#"><img alt="C#" title="C#" height="40px" width="50px"
                         src="https://user-images.githubusercontent.com/25057099/117537914-f2f94d80-b057-11eb-88a1-8d176852d612.png" />
               </a>
             </td>
-           <td><a href="#"><img alt="PHP" title="PHP" height="40px" width="50px"
-                        src="https://user-images.githubusercontent.com/25057099/117538296-aca4ee00-b059-11eb-9abf-6c479b483b81.png" />
-              </a>
-            </td>
-            <td><a href="#"><img alt="JSP" title="JSP" height="40px" width="50px"
-                        src="https://user-images.githubusercontent.com/25057099/117538245-65b6f880-b059-11eb-8222-d5ecaa34017c.png" />
-              </a>
-            </td>
-            <td><a href="#"><img alt="Hibernate" title="Hibernate" height="40px" width="120px"
-                        src="https://user-images.githubusercontent.com/25057099/117538132-d873a400-b058-11eb-8c03-b916616219a8.png" />
+            <td><a href="#"><img alt="React Native" title="React Native" height="40px" width="120px"
+                        src="https://user-images.githubusercontent.com/25057099/135941544-79fe2689-5ef6-4abf-acfc-35e4e48d0979.png" />
               </a>
             </td>
       </tr>
@@ -157,7 +145,7 @@ Fast learner and eager to explore new technologies. Able to switch between perfe
       </td>
       <td>
          <a href="http://jaysolanki.tech/" title="Portfolio">
-          <img src="https://user-images.githubusercontent.com/25057099/117540215-2640da00-b062-11eb-86f3-1669bd194bad.png" alt="Jay Solanki's Portfolio" height="30" width="30">
+          <img src="https://user-images.githubusercontent.com/25057099/135941639-d9a83cf4-0786-4655-9eba-381a5c47bbc0.png" alt="Jay Solanki's Portfolio" height="30" width="30">
       </a>  
       </td>
    </tr>
