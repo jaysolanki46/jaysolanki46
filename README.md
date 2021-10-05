@@ -10,7 +10,8 @@ Fast learner and eager to explore new technologies. Able to switch between perfe
 <table style="border-style:hidden;">
     <tbody>
         <tr>
-            <td>![java](https://user-images.githubusercontent.com/25057099/135941180-c9bff928-dc9c-4d50-aa02-25fc68af56f9.png)
+            <td><a href="#"><img alt="Java" title="Java" height="40px" width="50px"
+                        src="https://user-images.githubusercontent.com/25057099/135941217-9d9e474c-b523-4f68-b2e0-57678bdae44e.png" />
             </td>
            <td><a href="#"><img alt=".Net" title=".Net" height="40px" width="50px"
                         src="https://user-images.githubusercontent.com/25057099/117537795-5b93fa80-b057-11eb-82fb-e2e4c8fa67b9.png" />
