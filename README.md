@@ -1,4 +1,4 @@
-![Jay Solanki - LinkedIN Banner](https://user-images.githubusercontent.com/25057099/117534998-e4a33580-b047-11eb-8d6c-14f6f3b9cdf8.png)
+![Jay Solanki](https://user-images.githubusercontent.com/25057099/135940921-b3b5aa59-a44a-49e8-b862-2d84d6602b1d.png)
 
 ## 📖 About me
 2+ years professional experience as software developer. Specialised in backend development and build management.
@@ -10,9 +10,7 @@ Fast learner and eager to explore new technologies. Able to switch between perfe
 <table style="border-style:hidden;">
     <tbody>
         <tr>
-            <td><a href="#"><img alt="Java" title="Java" height="40px" width="50px"
-                        src="https://user-images.githubusercontent.com/25057099/117538162-05c05200-b059-11eb-9b36-a04c54e6d60f.png" />
-              </a>
+            <td>![java](https://user-images.githubusercontent.com/25057099/135941180-c9bff928-dc9c-4d50-aa02-25fc68af56f9.png)
             </td>
            <td><a href="#"><img alt=".Net" title=".Net" height="40px" width="50px"
                         src="https://user-images.githubusercontent.com/25057099/117537795-5b93fa80-b057-11eb-82fb-e2e4c8fa67b9.png" />
