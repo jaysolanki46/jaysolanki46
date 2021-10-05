@@ -18,7 +18,7 @@ Fast learner and eager to explore new technologies. Able to switch between perfe
               </a>
             </td>
             <td><a href="#"><img alt="React Native" title="React Native" height="40px" width="50px"
-                        src="https://user-images.githubusercontent.com/25057099/135941808-ce66a7a1-86f3-40aa-9aea-043c767d0d5e.png" />
+                        src="https://user-images.githubusercontent.com/25057099/135941905-782952d1-d4ab-463d-b2fe-68c92dbfc87e.png" />
               </a>
             </td>
       </tr>
