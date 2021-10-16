@@ -1,7 +1,7 @@
 ![Jay Solanki](https://user-images.githubusercontent.com/25057099/135940921-b3b5aa59-a44a-49e8-b862-2d84d6602b1d.png)
 
 ## 📖 About me
-2+ years professional experience as software developer. Specialised in backend development and build management.
+2+ years professional experience as a software developer. Specialised in backend development and build management.
 
 Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, team work and Clean Code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.
 
