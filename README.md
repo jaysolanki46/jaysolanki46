@@ -111,7 +111,7 @@ Fast learner and eager to explore new technologies. Able to switch between perfe
     </tbody>
 </table>
 
-   ### Learning 
+<!--    ### Learning 
 <table>
     <tbody>
         <tr>
@@ -125,10 +125,10 @@ Fast learner and eager to explore new technologies. Able to switch between perfe
             </td>
         </tr>
     </tbody>
-</table>
+</table> -->
 
-## 📈 Profile Stats
-<img src="https://github-readme-stats.vercel.app/api?username=jaysolanki46&show_icons=true&theme=dark&include_all_commits=true" alt="Jay Solanki :: Profile Stats" />
+<!-- ## 📈 Profile Stats
+<img src="https://github-readme-stats.vercel.app/api?username=jaysolanki46&show_icons=true&theme=dark&include_all_commits=true" alt="Jay Solanki :: Profile Stats" /> -->
 
 ## ⌨️ Reach Me
 <table>
