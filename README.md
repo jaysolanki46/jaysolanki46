@@ -1,9 +1,8 @@
-![Jay Solanki](https://user-images.githubusercontent.com/25057099/135940921-b3b5aa59-a44a-49e8-b862-2d84d6602b1d.png)
+
+![Jay Solanki](https://github.com/jaysolanki46/jaysolanki46/assets/25057099/6aedc8ab-f147-40ca-a297-d59fb5c5dff2)
 
 ## 📖 About me
-1+ years of professional experience as a software developer. Specialised in backend development and build management.
-
-Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, teamwork and Clean Code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.
+Seasoned software developer with over 3 years of hands-on experience in C#, .NET, React, AWS Cloud Services, TypeScript, and SQL. Demonstrated success in end-to-end development, system optimization, and automation. Proven ability to collaborate with cross-functional teams, delivering high-quality, scalable applications. 
 
 ## 👨‍💻 Languages and Tools
    ### Familier 
