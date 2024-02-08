@@ -16,7 +16,7 @@ Seasoned software developer with over 3 years of hands-on experience in C#, .NET
                         src="https://user-images.githubusercontent.com/25057099/117537914-f2f94d80-b057-11eb-88a1-8d176852d612.png" />
               </a>
             </td>
-            <td><a href="#"><img alt="React Native" title="React Native" height="40px" width="50px"
+            <td><a href="#"><img alt="React" title="React Native" height="40px" width="50px"
                         src="https://user-images.githubusercontent.com/25057099/135941905-782952d1-d4ab-463d-b2fe-68c92dbfc87e.png" />
               </a>
             </td>
@@ -34,11 +34,7 @@ Seasoned software developer with over 3 years of hands-on experience in C#, .NET
                         src="https://user-images.githubusercontent.com/25057099/117538147-f17c5500-b058-11eb-860a-e608a9cf3bac.png" />
               </a>
             </td>
-            <td><a href="#"><img alt="Bootstrap" title="Bootstrap" height="40px" width="50px"
-                        src="https://user-images.githubusercontent.com/25057099/117537874-bf1e2800-b057-11eb-9e30-7a8cf54bd458.png" />
-              </a>
-            </td>
-          <td><a href="#"><img alt="Selenium Automation" title="Selenium Automation" height="40px" width="50px"
+             <td><a href="#"><img alt="Selenium Automation" title="Selenium Automation" height="40px" width="50px"
                         src="https://user-images.githubusercontent.com/25057099/117538364-f1c92000-b059-11eb-8602-f6928c2fe0fb.png" />
             </a>
           </td>
@@ -51,62 +47,6 @@ Seasoned software developer with over 3 years of hands-on experience in C#, .NET
                </a>
            </td>
         </tr>
-      <tr>
-        <td><a href="#"><img alt="MySQL" title="mySQL" height="40px" width="50px"
-                        src="https://user-images.githubusercontent.com/25057099/117538276-926b1000-b059-11eb-99ea-3ba2f94506c6.png" />
-            </a>
-        </td>
-        <td><a href="#"><img alt="Microsoft SQL Server" title="Microsoft SQL Server" height="40px" width="50px"
-                        src="https://user-images.githubusercontent.com/25057099/117570026-a0ce3000-b11c-11eb-98d1-261481407956.png" />
-            </a>
-        </td>
-        <td><a href="#"><img alt="PostgreSQL" title="PostgreSQL" height="40px" width="50px"
-                        src="https://user-images.githubusercontent.com/25057099/117538340-d1996100-b059-11eb-9527-3298e1e8ab92.png" />
-            </a>
-        </td>
-        <td><a href="#"><img alt="Xampp" title="Xampp" height="40px" width="50px"
-                        src="https://user-images.githubusercontent.com/25057099/117539475-ed533600-b05e-11eb-9b0c-32b6238505c5.png" />
-            </a>
-        </td>
-      </tr>
-      <tr>
-        <td><a href="#"><img alt="GitHub" title="GitHub" height="40px" width="50px"
-                        src="https://user-images.githubusercontent.com/25057099/117538085-9d717080-b058-11eb-9b90-0ec2e4090520.png" />
-            </a>
-        </td>
-        <td><a href="#"><img alt="Git" title="Git" height="40px" width="50px"
-                        src="https://user-images.githubusercontent.com/25057099/117538044-6c913b80-b058-11eb-9d3c-3eac97d67afd.png" />
-            </a>
-        </td>
-        <td><a href="#"><img alt="Eclipse" title="Eclipse" height="40px" width="50px"
-                        src="https://user-images.githubusercontent.com/25057099/117537991-3e136080-b058-11eb-9c21-2c7c62442790.png" />
-          </a>
-        </td>
-        <td><a href="#"><img alt="Excel" title="Excel" height="40px" width="50px"
-                        src="https://user-images.githubusercontent.com/25057099/117538020-508d9a00-b058-11eb-97bf-592dc784ae01.png" />
-          </a>
-        </td>
-        <td><a href="#"><img alt="JIRA" title="JIRA" height="40px" width="50px"
-                        src="https://user-images.githubusercontent.com/25057099/117538197-33a59680-b059-11eb-9f54-aca9e5429259.png" />
-          </a>
-        </td>
-        <td><a href="#"><img alt="Command Line" title="Command Line" height="40px" width="50px"
-                        src="https://user-images.githubusercontent.com/25057099/117539409-9d746f00-b05e-11eb-88e6-048a9a2c1968.png" />
-                </a>
-         </td>
-         <td><a href="#"><img alt="Microsoft Visual Studio" title="Microsoft Visual Studio" height="40px" width="50px"
-                          src="https://user-images.githubusercontent.com/25057099/117539430-b7ae4d00-b05e-11eb-992f-582bb8890d87.png" />
-                  </a>
-          </td>
-         <td><a href="#"><img alt="REST APIs" title="REST APIs" height="40px" width="50px"
-                        src="https://user-images.githubusercontent.com/25057099/117539452-d01e6780-b05e-11eb-9b33-1f8cd2ebd21b.png" />
-                </a>
-         </td>
-         <td><a href="#"><img alt="Chart Js" title="Chart Js" height="40px" width="50px"
-                        src="https://user-images.githubusercontent.com/25057099/117569480-fb19c180-b119-11eb-8697-89ecf08e2ca9.png" />
-                </a>
-         </td>
-      </tr>
     </tbody>
 </table>
 
